@@ -1,4 +1,4 @@
-Pressure Sensor → Analog Frontend (LMC6001) → ESP32 (TX)
+Pressure Sensor → Analog Frontend → ESP32 (TX)
                                               ↓
                                         ESP-NOW (2.4 GHz)
                                               ↓
